@@ -1,6 +1,6 @@
 # Cryptonite Task Phase Project
 
-This project is a part of the Cryptonite task phase, showcasing various features of Git and GitHub.
+This project is a part of the Cryptonite task phase
 
 ## Installation
 
