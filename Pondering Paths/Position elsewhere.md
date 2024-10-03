@@ -1,6 +1,6 @@
 # Position elsewhere
 
-Here, I tried the /challenge/run to get to know which directory I need to be in. Then I went to the /usr/share/build-essential directory and ran /challenge/run to get the flag
+Here, I tried the `/challenge/run` to get to know which directory I need to be in. Then I went to the `/usr/share/build-essential` directory as I got to know that it was the right one then I ran `/challenge/run` to get the flag
 
 ```bash
 hacker@paths~position-elsewhere:~$ /challenge/run
