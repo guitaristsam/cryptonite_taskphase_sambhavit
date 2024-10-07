@@ -1,6 +1,6 @@
 # Position yet elsewhere
 
-Here, yet again, I did the same thing of running /challenge/run to find the correct directory it was located in. Then used change directory(cd) to go to that directory and then ran /challenge/run to find the flag
+Here, yet again, I did the same thing of running `/challenge/run` to find the correct directory it was located in. Then used change directory `cd` to go to that directory and then ran `/challenge/run` to find the flag `pwn.college{kLjmpeSgJTRx6OcK4BelBwjUaU4.dhDN1QDL4gjN0czW}`
 
 ```bash
 hacker@paths~position-yet-elsewhere:~$ /challenge/run
