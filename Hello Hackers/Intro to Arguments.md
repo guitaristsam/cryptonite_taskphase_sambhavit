@@ -1,5 +1,5 @@
 # Intro to arguments
-Used the hello command by identifying what a command is and which one is to be used
+Used the `hello` command by identifying what a command is and which one is to be used
 ```bash
 hacker@hello~intro-to-arguments:~$ hello hackers
 Success! Here is your flag:
