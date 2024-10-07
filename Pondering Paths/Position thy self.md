@@ -1,7 +1,6 @@
 # Position thy self
 
-Here the initial dierectory was ~ but the /challenge/run was not in the ~ directory so used the change directory command(cd) to change to tmp directory and then executed /challenge/run to find flag
-
+Here the initial directory was `~` but `/challenge/run` was not in the `~` directory so used the change directory ,`cd` command to change to `tmp` directory and then executed `/challenge/run` to find flag `pwn.college{kwW2WeLf2VUN74ICFZK-hfmONHM.dZDN1QDL4gjN0czW}`
 
 ```bash
 hacker@paths~position-thy-self:~$ /challenge/run
