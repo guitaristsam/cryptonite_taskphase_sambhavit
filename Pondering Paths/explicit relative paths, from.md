@@ -1,6 +1,6 @@
 # explicit relative paths, from /
 
-First, I navigated to the root directory using cd/, and then I used a relative path ./challenge/run to find the flag
+First, I navigated to the root directory using `cd /.`, and then I used a relative path `./challenge/run` to find the flag
 
 ```bash
 hacker@paths~explicit-relative-paths-from-:~$ cd /.
