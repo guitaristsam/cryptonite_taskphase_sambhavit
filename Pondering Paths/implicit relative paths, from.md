@@ -1,6 +1,6 @@
 # Implicit relative paths, from /
 
-Here I made the directory to '/' and then ran challenge/run to find the flag
+Here I made the directory to `/` and then ran `challenge/run` to find the flag `pwn.college{MqvwUm_e03zE4xoQTba7Z72X-Mp.dlDN1QDL4gjN0czW}`
 
 ```bash
 hacker@paths~implicit-relative-paths-from-:~$ /challenge/run
