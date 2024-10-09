@@ -6,5 +6,5 @@ This project is a part of the Cryptonite task phase
 
 To install the project, clone the repository using:
 ```bash
-git clone https://github.com/yourusername/cryptonite_taskphase_Sambhavit.git
+git clone https://github.com/guitaristsam/cryptonite_taskphase_sambhavit.git
 
